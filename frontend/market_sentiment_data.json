@@ -1,0 +1,697 @@
+{
+  "timestamp": "2026-01-19T21:20:28.646025",
+  "market_sentiment": {
+    "techs": {
+      "positive": 35.19,
+      "negative": 64.81,
+      "neutral": 0.0,
+      "total_mentions": 1165,
+      "avg_confidence": 0.948,
+      "articles_count": 1165
+    },
+    "criptos": {
+      "positive": 39.34,
+      "negative": 60.66,
+      "neutral": 0.0,
+      "total_mentions": 666,
+      "avg_confidence": 0.963,
+      "articles_count": 666
+    },
+    "gold": {
+      "positive": 48.59,
+      "negative": 51.41,
+      "neutral": 0.0,
+      "total_mentions": 249,
+      "avg_confidence": 0.948,
+      "articles_count": 249
+    },
+    "silver": {
+      "positive": 40.87,
+      "negative": 59.13,
+      "neutral": 0.0,
+      "total_mentions": 208,
+      "avg_confidence": 0.942,
+      "articles_count": 208
+    }
+  },
+  "top_assets": {
+    "most_talked": [
+      {
+        "asset": "Bitcoin",
+        "mentions": 10,
+        "positive": 1,
+        "negative": 9,
+        "sentiment_avg": -0.8
+      },
+      {
+        "asset": "Apple",
+        "mentions": 7,
+        "positive": 2,
+        "negative": 5,
+        "sentiment_avg": -0.429
+      },
+      {
+        "asset": "crypto",
+        "mentions": 6,
+        "positive": 0,
+        "negative": 6,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "gold",
+        "mentions": 5,
+        "positive": 0,
+        "negative": 5,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "silver",
+        "mentions": 4,
+        "positive": 1,
+        "negative": 3,
+        "sentiment_avg": -0.5
+      },
+      {
+        "asset": "AI",
+        "mentions": 3,
+        "positive": 1,
+        "negative": 2,
+        "sentiment_avg": -0.333
+      },
+      {
+        "asset": "Intel",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "ETH",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "cryptocurrency",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "Meta",
+        "mentions": 1,
+        "positive": 1,
+        "negative": 0,
+        "sentiment_avg": 1.0
+      }
+    ],
+    "least_talked": [
+      {
+        "asset": "Intel",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "ETH",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "cryptocurrency",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "Meta",
+        "mentions": 1,
+        "positive": 1,
+        "negative": 0,
+        "sentiment_avg": 1.0
+      },
+      {
+        "asset": "silver price",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "AI",
+        "mentions": 3,
+        "positive": 1,
+        "negative": 2,
+        "sentiment_avg": -0.333
+      },
+      {
+        "asset": "silver",
+        "mentions": 4,
+        "positive": 1,
+        "negative": 3,
+        "sentiment_avg": -0.5
+      },
+      {
+        "asset": "gold",
+        "mentions": 5,
+        "positive": 0,
+        "negative": 5,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "crypto",
+        "mentions": 6,
+        "positive": 0,
+        "negative": 6,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "Apple",
+        "mentions": 7,
+        "positive": 2,
+        "negative": 5,
+        "sentiment_avg": -0.429
+      }
+    ],
+    "most_positive": [
+      {
+        "asset": "Meta",
+        "mentions": 1,
+        "positive": 1,
+        "negative": 0,
+        "sentiment_avg": 1.0
+      },
+      {
+        "asset": "AI",
+        "mentions": 3,
+        "positive": 1,
+        "negative": 2,
+        "sentiment_avg": -0.333
+      },
+      {
+        "asset": "Apple",
+        "mentions": 7,
+        "positive": 2,
+        "negative": 5,
+        "sentiment_avg": -0.429
+      },
+      {
+        "asset": "silver",
+        "mentions": 4,
+        "positive": 1,
+        "negative": 3,
+        "sentiment_avg": -0.5
+      },
+      {
+        "asset": "Bitcoin",
+        "mentions": 10,
+        "positive": 1,
+        "negative": 9,
+        "sentiment_avg": -0.8
+      },
+      {
+        "asset": "Intel",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "crypto",
+        "mentions": 6,
+        "positive": 0,
+        "negative": 6,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "ETH",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "cryptocurrency",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "gold",
+        "mentions": 5,
+        "positive": 0,
+        "negative": 5,
+        "sentiment_avg": -1.0
+      }
+    ],
+    "most_negative": [
+      {
+        "asset": "Intel",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "crypto",
+        "mentions": 6,
+        "positive": 0,
+        "negative": 6,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "ETH",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "cryptocurrency",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "gold",
+        "mentions": 5,
+        "positive": 0,
+        "negative": 5,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "silver price",
+        "mentions": 1,
+        "positive": 0,
+        "negative": 1,
+        "sentiment_avg": -1.0
+      },
+      {
+        "asset": "Bitcoin",
+        "mentions": 10,
+        "positive": 1,
+        "negative": 9,
+        "sentiment_avg": -0.8
+      },
+      {
+        "asset": "silver",
+        "mentions": 4,
+        "positive": 1,
+        "negative": 3,
+        "sentiment_avg": -0.5
+      },
+      {
+        "asset": "Apple",
+        "mentions": 7,
+        "positive": 2,
+        "negative": 5,
+        "sentiment_avg": -0.429
+      },
+      {
+        "asset": "AI",
+        "mentions": 3,
+        "positive": 1,
+        "negative": 2,
+        "sentiment_avg": -0.333
+      }
+    ]
+  },
+  "detailed_category_data": {
+    "techs": {
+      "positive_count": 410,
+      "positive_pct": 35.19,
+      "negative_count": 755,
+      "negative_pct": 64.81,
+      "neutral_count": 0,
+      "neutral_pct": 0.0,
+      "total_mentions": 1165,
+      "avg_confidence": 0.948,
+      "articles": [
+        {
+          "title": "Apple Honors Dr. Martin Luther King Jr. With Full-Page Website Tribute",
+          "url": "https://www.macrumors.com/2026/01/19/apple-dr-martin-luther-king-jr-tribute/",
+          "source": "MacRumors",
+          "sentiment": 1,
+          "confidence": 0.9989529848098755,
+          "timestamp": "2026-01-19T21:19:18.328622"
+        },
+        {
+          "title": "How Much RAM Will the iPhone 18 Pro Have? Here's What Rumors Say",
+          "url": "https://www.macrumors.com/2026/01/19/iphone-18-pro-ram-amount-rumors/",
+          "source": "MacRumors",
+          "sentiment": -1,
+          "confidence": 0.9921690821647644,
+          "timestamp": "2026-01-19T21:19:18.351524"
+        },
+        {
+          "title": "Basic Apple Guy: Creator Studio Icon History",
+          "url": "https://mastodon.social/@BasicAppleGuy/115888906340881425",
+          "source": "Mastodon.social",
+          "sentiment": -1,
+          "confidence": 0.9251770377159119,
+          "timestamp": "2026-01-19T21:19:18.372818"
+        },
+        {
+          "title": "iPhone 18 Pro: Under-Screen Face ID, LTPO+ Display, Dynamic Island Debate Continues",
+          "url": "https://www.macrumors.com/2026/01/19/iphone-18-pro-face-id-ltpo-plus-rumors/",
+          "source": "MacRumors",
+          "sentiment": -1,
+          "confidence": 0.9973000884056091,
+          "timestamp": "2026-01-19T21:19:18.397067"
+        },
+        {
+          "title": "Apple warns millions of iPhones are exposed to attack",
+          "url": "https://www.foxnews.com/tech/apple-warns-millions-iphones-exposed-attack",
+          "source": "Fox News",
+          "sentiment": -1,
+          "confidence": 0.9988767504692078,
+          "timestamp": "2026-01-19T21:19:18.415260"
+        },
+        {
+          "title": "Anker Clears Out Its MagSafe Charger Stand at Its Lowest Price, Charge Your iPhone, Apple Watch, and AirPods for Less",
+          "url": "https://kotaku.com/anker-clears-out-its-magsafe-charger-stand-at-its-lowest-price-charge-your-iphone-apple-watch-and-airpods-for-less-2000659479",
+          "source": "Kotaku",
+          "sentiment": -1,
+          "confidence": 0.9988293051719666,
+          "timestamp": "2026-01-19T21:19:18.439323"
+        },
+        {
+          "title": "Apple Intelligence Siri is over a year late, but that might be a good thing",
+          "url": "https://9to5mac.com/2026/01/18/apple-intelligence-siri-delay-comes-with-one-benefit/",
+          "source": "9to5Mac",
+          "sentiment": -1,
+          "confidence": 0.999138355255127,
+          "timestamp": "2026-01-19T21:19:18.460713"
+        },
+        {
+          "title": "Security Bite: Walmart not supporting Apple Pay is a security risk",
+          "url": "https://9to5mac.com/2026/01/19/security-bite-walmart-not-supporting-apple-pay-is-a-security-risk/",
+          "source": "9to5Mac",
+          "sentiment": 1,
+          "confidence": 0.7016462683677673,
+          "timestamp": "2026-01-19T21:19:18.483324"
+        },
+        {
+          "title": "Here’s why Walmart still doesn’t support Apple Pay",
+          "url": "https://9to5mac.com/2026/01/18/heres-why-walmart-still-doesnt-support-apple-pay/",
+          "source": "9to5Mac",
+          "sentiment": -1,
+          "confidence": 0.9970267415046692,
+          "timestamp": "2026-01-19T21:19:18.503745"
+        },
+        {
+          "title": "You can still try Logic Pro and Final Cut Pro for 90 days, if you’re quick",
+          "url": "https://9to5mac.com/2026/01/19/you-can-still-try-logic-pro-and-final-cut-pro-for-90-days/",
+          "source": "9to5Mac",
+          "sentiment": -1,
+          "confidence": 0.9958451390266418,
+          "timestamp": "2026-01-19T21:19:18.525358"
+        }
+      ]
+    },
+    "criptos": {
+      "positive_count": 262,
+      "positive_pct": 39.34,
+      "negative_count": 404,
+      "negative_pct": 60.66,
+      "neutral_count": 0,
+      "neutral_pct": 0.0,
+      "total_mentions": 666,
+      "avg_confidence": 0.963,
+      "articles": [
+        {
+          "title": "Trump’s National Bitcoin Reserve Is Still in the Works. Some States Have Already Taken Action on Theirs",
+          "url": "https://gizmodo.com/trumps-national-bitcoin-reserve-is-still-in-the-works-some-states-have-already-taken-action-on-theirs-2000711467",
+          "source": "Gizmodo.com",
+          "sentiment": -1,
+          "confidence": 0.9718666672706604,
+          "timestamp": "2026-01-19T21:19:55.849311"
+        },
+        {
+          "title": "The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says",
+          "url": "https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471",
+          "source": "Gizmodo.com",
+          "sentiment": -1,
+          "confidence": 0.9990993738174438,
+          "timestamp": "2026-01-19T21:19:55.868285"
+        },
+        {
+          "title": "Free Bitcoin Glitch Fixed When ‘Decentralized’ Crypto Exchange Uses Centralized Rollback",
+          "url": "https://gizmodo.com/free-bitcoin-glitch-fixed-when-decentralized-crypto-exchange-uses-centralized-rollback-2000711734",
+          "source": "Gizmodo.com",
+          "sentiment": -1,
+          "confidence": 0.9964964985847473,
+          "timestamp": "2026-01-19T21:19:55.884057"
+        },
+        {
+          "title": "Bitcoin Price Crashes to Zero on Paradex Exchange as Glitch Fuels Mass Liquidations",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_679fe27a-f102-4d48-ae38-3eaa33863b6a",
+          "source": "Yahoo Entertainment",
+          "sentiment": -1,
+          "confidence": 0.9996684789657593,
+          "timestamp": "2026-01-19T21:19:55.903944"
+        },
+        {
+          "title": "The 5 worst ideas of the 21st century – and how they went wrong",
+          "url": "https://www.newscientist.com/article/2511248-the-5-worst-ideas-of-the-21st-century-and-how-they-went-wrong/",
+          "source": "New Scientist",
+          "sentiment": -1,
+          "confidence": 0.9997188448905945,
+          "timestamp": "2026-01-19T21:19:55.921737"
+        },
+        {
+          "title": "DOJ Alleges One Venezuelan Used Crypto Stablecoin Tether to Launder $1 Billion for Criminals",
+          "url": "https://gizmodo.com/doj-alleges-one-venezuelan-used-crypto-stablecoin-tether-to-launder-1-billion-for-criminals-2000711586",
+          "source": "Gizmodo.com",
+          "sentiment": -1,
+          "confidence": 0.9926135540008545,
+          "timestamp": "2026-01-19T21:19:55.938235"
+        },
+        {
+          "title": "Bitcoin 'OG' Sells After 12 Years, Locking in 31,250% Profit",
+          "url": "https://finance.yahoo.com/news/bitcoin-og-sells-12-years-114607600.html",
+          "source": "Yahoo Entertainment",
+          "sentiment": 1,
+          "confidence": 0.821111798286438,
+          "timestamp": "2026-01-19T21:19:55.954768"
+        },
+        {
+          "title": "Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations",
+          "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations",
+          "source": "Tom's Hardware UK",
+          "sentiment": -1,
+          "confidence": 0.9918826222419739,
+          "timestamp": "2026-01-19T21:19:55.974883"
+        },
+        {
+          "title": "Louisiana Pension Takes $3.2 Million Microstrategy Stake | US Crypto News",
+          "url": "https://beincrypto.com/louisiana-pension-fund-microstrategy-us-crypto-news/",
+          "source": "BeInCrypto",
+          "sentiment": -1,
+          "confidence": 0.9929364323616028,
+          "timestamp": "2026-01-19T21:19:55.991467"
+        },
+        {
+          "title": "The Crypto ETF Showdown: BITQ's Diversification vs. IBIT's Bitcoin Bet",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_51f67656-71b9-4aae-b213-168f42657235",
+          "source": "Yahoo Entertainment",
+          "sentiment": -1,
+          "confidence": 0.9968246221542358,
+          "timestamp": "2026-01-19T21:19:56.006805"
+        }
+      ]
+    },
+    "gold": {
+      "positive_count": 121,
+      "positive_pct": 48.59,
+      "negative_count": 128,
+      "negative_pct": 51.41,
+      "neutral_count": 0,
+      "neutral_pct": 0.0,
+      "total_mentions": 249,
+      "avg_confidence": 0.948,
+      "articles": [
+        {
+          "title": " Santos line up to face Guarani, aiming to bounce back in the Paulistão",
+          "url": "https://onefootball.com/en/news/santos-line-up-to-face-guarani-aiming-to-bounce-back-in-the-paulistao-42255410",
+          "source": "Onefootball.com",
+          "sentiment": 1,
+          "confidence": 0.9965524673461914,
+          "timestamp": "2026-01-19T21:20:14.239363"
+        },
+        {
+          "title": "The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says",
+          "url": "https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471",
+          "source": "Gizmodo.com",
+          "sentiment": -1,
+          "confidence": 0.9990993738174438,
+          "timestamp": "2026-01-19T21:20:14.258535"
+        },
+        {
+          "title": "What Drove Gold and Silver to Record Highs This Weekend?",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_12ac2012-363b-4110-b87a-3d290934cee1",
+          "source": "Yahoo Entertainment",
+          "sentiment": -1,
+          "confidence": 0.9916028380393982,
+          "timestamp": "2026-01-19T21:20:14.276375"
+        },
+        {
+          "title": "Trump’s National Bitcoin Reserve Is Still in the Works. Some States Have Already Taken Action on Theirs",
+          "url": "https://gizmodo.com/trumps-national-bitcoin-reserve-is-still-in-the-works-some-states-have-already-taken-action-on-theirs-2000711467",
+          "source": "Gizmodo.com",
+          "sentiment": -1,
+          "confidence": 0.9718666672706604,
+          "timestamp": "2026-01-19T21:20:14.294167"
+        },
+        {
+          "title": "2-Time Olympic Gold Medalist Indicted for Allegedly Raping Swim Coach's Teenage Daughter",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c98312c6-a8ff-4bc9-8402-8e81fa78501c",
+          "source": "Yahoo Entertainment",
+          "sentiment": -1,
+          "confidence": 0.9935599565505981,
+          "timestamp": "2026-01-19T21:20:14.312266"
+        },
+        {
+          "title": "This 2017 Army Tank Purchased From eBay Had $2.4M Of Treasure Hidden Inside",
+          "url": "https://www.slashgear.com/2077287/nick-mead-iraqi-tank-gold-discovery/",
+          "source": "SlashGear",
+          "sentiment": -1,
+          "confidence": 0.9443266987800598,
+          "timestamp": "2026-01-19T21:20:14.328681"
+        },
+        {
+          "title": "Free Bitcoin Glitch Fixed When ‘Decentralized’ Crypto Exchange Uses Centralized Rollback",
+          "url": "https://gizmodo.com/free-bitcoin-glitch-fixed-when-decentralized-crypto-exchange-uses-centralized-rollback-2000711734",
+          "source": "Gizmodo.com",
+          "sentiment": -1,
+          "confidence": 0.9964964985847473,
+          "timestamp": "2026-01-19T21:20:14.344338"
+        },
+        {
+          "title": "Finally, A Limited Edition DualSense Controller That Actually Looks Cool",
+          "url": "https://kotaku.com/this-is-my-favorite-limited-edition-ps5-dualsense-controller-yet-2000660992",
+          "source": "Kotaku",
+          "sentiment": -1,
+          "confidence": 0.9488857388496399,
+          "timestamp": "2026-01-19T21:20:14.360459"
+        },
+        {
+          "title": "NZXT C-Series Gold Core 80 PLUS Gold Fully Modular Desktop PSU: 1000W $85, 850W $60 + $10 Shipping",
+          "url": "https://slickdeals.net/f/19115956-nzxt-c-series-gold-core-80-plus-gold-fully-modular-desktop-psu-1000w-85-850w-60-10-shipping",
+          "source": "Slickdeals.net",
+          "sentiment": -1,
+          "confidence": 0.9936981797218323,
+          "timestamp": "2026-01-19T21:20:14.382591"
+        },
+        {
+          "title": "The Nobel Prize and the Laureate Are Inseparable",
+          "url": "https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable",
+          "source": "Nobelpeaceprize.org",
+          "sentiment": 1,
+          "confidence": 0.9967789053916931,
+          "timestamp": "2026-01-19T21:20:14.399684"
+        }
+      ]
+    },
+    "silver": {
+      "positive_count": 85,
+      "positive_pct": 40.87,
+      "negative_count": 123,
+      "negative_pct": 59.13,
+      "neutral_count": 0,
+      "neutral_pct": 0.0,
+      "total_mentions": 208,
+      "avg_confidence": 0.942,
+      "articles": [
+        {
+          "title": "What Drove Gold and Silver to Record Highs This Weekend?",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_12ac2012-363b-4110-b87a-3d290934cee1",
+          "source": "Yahoo Entertainment",
+          "sentiment": -1,
+          "confidence": 0.9916028380393982,
+          "timestamp": "2026-01-19T21:20:24.775760"
+        },
+        {
+          "title": "Italian fashion designer Valentino dies at 93",
+          "url": "https://www.npr.org/2026/01/19/1114518694/valentino-garavani-dead",
+          "source": "NPR",
+          "sentiment": 1,
+          "confidence": 0.9996399879455566,
+          "timestamp": "2026-01-19T21:20:24.798646"
+        },
+        {
+          "title": "Samsung Galaxy S26 will skip the iPhone 17 Pro’s bold orange look",
+          "url": "https://www.androidpolice.com/samsung-galaxy-s26-skip-iphone-17-pros-bold-orange-look/",
+          "source": "Android Police",
+          "sentiment": -1,
+          "confidence": 0.9990707635879517,
+          "timestamp": "2026-01-19T21:20:24.815161"
+        },
+        {
+          "title": "Is the Metallic & Millennial Pink 1906R New Balance's Best Colorway Yet?",
+          "url": "https://www.highsnobiety.com/p/new-balance-1906r-rosewood/",
+          "source": "Highsnobiety",
+          "sentiment": 1,
+          "confidence": 0.9996442794799805,
+          "timestamp": "2026-01-19T21:20:24.831139"
+        },
+        {
+          "title": "\"That's The Way We Make Things Better\": I'm Desperately Trying To Find The Silver Lining In 2026, So Here Are 23 Things That Actually Give Me The Tiniest Bit Of Hope For The US",
+          "url": "https://www.buzzfeed.com/kelley_greene/positive-things-happening-in-america-in-2026",
+          "source": "Buzzfeed",
+          "sentiment": 1,
+          "confidence": 0.6526458859443665,
+          "timestamp": "2026-01-19T21:20:24.852002"
+        },
+        {
+          "title": "Dubai Gets World’s First Mercedes-Benz Branded City With 13,000 Apartments",
+          "url": "https://www.yankodesign.com/2026/01/18/dubai-gets-worlds-first-mercedes-benz-branded-city-with-13000-apartments/",
+          "source": "Yanko Design",
+          "sentiment": -1,
+          "confidence": 0.5205932855606079,
+          "timestamp": "2026-01-19T21:20:24.871881"
+        },
+        {
+          "title": "UPDATE: Entitled boy mom misses 27-year-old daughter's wedding to take 21-year-old son to Disneyland: 'I wanted to be petty. I told both my parents that it wasn't a problem to miss this event'",
+          "url": "https://cheezburger.com/44006661/update-entitled-boy-mom-misses-27-year-old-daughters-wedding-to-take-21-year-old-son-to-disneyland-i",
+          "source": "Cheezburger.com",
+          "sentiment": -1,
+          "confidence": 0.8572023510932922,
+          "timestamp": "2026-01-19T21:20:24.895502"
+        },
+        {
+          "title": "US futures sink after Trump warns of higher tariffs for 8 countries over Greenland issue",
+          "url": "https://www.yahoo.com/news/articles/us-futures-sink-trump-warns-064219353.html",
+          "source": "Yahoo Entertainment",
+          "sentiment": -1,
+          "confidence": 0.9996892213821411,
+          "timestamp": "2026-01-19T21:20:24.911747"
+        },
+        {
+          "title": "Spectacular Award-Winning Photos from the 2025 DPG Masters Underwater Imaging Competition",
+          "url": "https://designyoutrust.com/2026/01/spectacular-award-winning-photos-from-the-2025-dpg-masters-underwater-imaging-competition/",
+          "source": "Designyoutrust.com",
+          "sentiment": 1,
+          "confidence": 0.9997562766075134,
+          "timestamp": "2026-01-19T21:20:24.930404"
+        },
+        {
+          "title": "Gold and silver prices hit high after tariff threat",
+          "url": "https://www.bbc.com/news/articles/cx2yppj4lg4o",
+          "source": "BBC News",
+          "sentiment": -1,
+          "confidence": 0.9402134418487549,
+          "timestamp": "2026-01-19T21:20:24.946250"
+        }
+      ]
+    }
+  }
+}

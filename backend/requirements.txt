@@ -1,0 +1,8 @@
+requests==2.31.0
+newsapi-python==1.10
+transformers==4.36.2
+torch==2.1.2
+pandas==2.1.4
+flask==3.0.0
+schedule==1.2.0
+python-dotenv==1.0.0
