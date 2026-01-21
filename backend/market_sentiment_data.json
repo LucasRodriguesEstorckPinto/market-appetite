@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-01-20T10:37:36.934238",
+  "market_sentiment": {
+    "techs": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles_count": 0
+    },
+    "criptos": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles_count": 0
+    },
+    "gold": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles_count": 0
+    },
+    "silver": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles_count": 0
+    },
+    "energias_renovaveis": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles_count": 0
+    }
+  },
+  "top_assets": {
+    "most_talked": [],
+    "least_talked": [],
+    "most_positive": [],
+    "most_negative": []
+  },
+  "detailed_category_data": {
+    "techs": {
+      "positive_count": 0,
+      "positive_pct": 0,
+      "negative_count": 0,
+      "negative_pct": 0,
+      "neutral_count": 0,
+      "neutral_pct": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles": []
+    },
+    "criptos": {
+      "positive_count": 0,
+      "positive_pct": 0,
+      "negative_count": 0,
+      "negative_pct": 0,
+      "neutral_count": 0,
+      "neutral_pct": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles": []
+    },
+    "gold": {
+      "positive_count": 0,
+      "positive_pct": 0,
+      "negative_count": 0,
+      "negative_pct": 0,
+      "neutral_count": 0,
+      "neutral_pct": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles": []
+    },
+    "silver": {
+      "positive_count": 0,
+      "positive_pct": 0,
+      "negative_count": 0,
+      "negative_pct": 0,
+      "neutral_count": 0,
+      "neutral_pct": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles": []
+    },
+    "energias_renovaveis": {
+      "positive_count": 0,
+      "positive_pct": 0,
+      "negative_count": 0,
+      "negative_pct": 0,
+      "neutral_count": 0,
+      "neutral_pct": 0,
+      "total_mentions": 0,
+      "avg_confidence": 0,
+      "articles": []
+    }
+  }
+}
